@@ -16,7 +16,6 @@
 		401483B2222D20510002AA61 /* testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 401483B1222D20510002AA61 /* testTests.m */; };
 		401483BD222D20510002AA61 /* testUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 401483BC222D20510002AA61 /* testUITests.m */; };
 		401483CC222D22080002AA61 /* oneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 401483CB222D22080002AA61 /* oneViewController.m */; };
-		401483CF222D22140002AA61 /* twoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 401483CE222D22140002AA61 /* twoViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +54,6 @@
 		401483BE222D20510002AA61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		401483CA222D22080002AA61 /* oneViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = oneViewController.h; sourceTree = "<group>"; };
 		401483CB222D22080002AA61 /* oneViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = oneViewController.m; sourceTree = "<group>"; };
-		401483CD222D22140002AA61 /* twoViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = twoViewController.h; sourceTree = "<group>"; };
-		401483CE222D22140002AA61 /* twoViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = twoViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +110,6 @@
 				4014839C222D204E0002AA61 /* ViewController.m */,
 				401483CA222D22080002AA61 /* oneViewController.h */,
 				401483CB222D22080002AA61 /* oneViewController.m */,
-				401483CD222D22140002AA61 /* twoViewController.h */,
-				401483CE222D22140002AA61 /* twoViewController.m */,
 				4014839E222D204E0002AA61 /* Main.storyboard */,
 				401483A1222D20510002AA61 /* Assets.xcassets */,
 				401483A3222D20510002AA61 /* LaunchScreen.storyboard */,
@@ -276,7 +271,6 @@
 				401483A8222D20510002AA61 /* main.m in Sources */,
 				4014839A222D204E0002AA61 /* AppDelegate.m in Sources */,
 				401483CC222D22080002AA61 /* oneViewController.m in Sources */,
-				401483CF222D22140002AA61 /* twoViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
